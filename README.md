@@ -1,2 +1,1 @@
-# Links
-For CybriaTech Link Bot
+CDN
